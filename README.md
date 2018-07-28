@@ -1,2 +1,2 @@
-# hello-world
-beginner
+# My Projects
+This repository is to share my projects.
